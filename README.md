@@ -1,4 +1,4 @@
-# Tact Language Compiler
+# Tact Language Compiler Persian language 
 
 <img src="https://raw.githubusercontent.com/tact-lang/tact-docs/main/public/banner.jpeg">
 
